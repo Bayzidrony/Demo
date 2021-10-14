@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SouthAsiaUni</string>
+    <string name="navigation_drawer_open">Open Navigation Drawe</string>
+    <string name="navigation_drawer_close">Close Navigation Drawe</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- marquee -->
+    <string name="marque_txt">Admission Going on For Fall 2021 Semester. Our Programs BCSE || BBA || TEXTILE </string>
+
+</resources>
